@@ -15,7 +15,7 @@ Create an account at https://www.openshift.com and install the client tools (run
 
 Create a php-5.4 application (you can call your application whatever you want)
 
-    rhc app create wordpress php-5.4 mysql-5.5 --from-code=https://github.com/openshift/wordpress-example
+    rhc app create wordpress php-5.4 mysql-5.5 --from-code=https://github.com/Maarc/wordpress-example
 
 That's it, you can now checkout your application at:
 
